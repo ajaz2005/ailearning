@@ -25,7 +25,7 @@ Key features include:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/studybuddy.git
+git clone https://github.com/ajaz2005/ailearning.git
 
 # Navigate to the project directory
 cd studybuddy
